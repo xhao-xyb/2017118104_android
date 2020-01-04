@@ -32,3 +32,4 @@
 第四次：用隐式intent召唤浏览器、拨号、地图
 第五次：RecyclerView做UI界面实现增删查改
 第六次：线程
+第七次：Service的使用
