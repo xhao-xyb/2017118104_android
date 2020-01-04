@@ -24,3 +24,11 @@
                   android:launchMode="singleTask">
                   
 每一个活动的android:launchMode都要修改。
+
+
+第一次：将Android Studio中的项目同步上传到Github和Sourcetree
+第二次：在AS当中导入别人的项目
+第三次：创建三个活动并可来回切换
+第四次：活动的启动模式
+第五次：用隐式intent召唤浏览器、拨号、地图
+第六次：实现增删查改
