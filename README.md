@@ -27,9 +27,9 @@
 
 
 第一次：将Android Studio中的项目同步上传到Github和Sourcetree；
-第二次：点击实现活动的跳转
-第三次：活动的启动模式
-第四次：用隐式intent召唤浏览器、拨号、地图
-第五次：RecyclerView做UI界面实现增删查改
-第六次：线程
+第二次：点击实现活动的跳转；
+第三次：活动的启动模式；
+第四次：用隐式intent召唤浏览器、拨号、地图；
+第五次：RecyclerView做UI界面实现增删查改；
+第六次：线程；
 第七次：Service的使用
